@@ -1,4 +1,4 @@
 {
-  "origins": ["http://localhost:4321", "https://astrowind-branch.vercel.app/"],
+  "origins": ["http://localhost:4321", "https://astrowind-branch.vercel.app"],
   "defaultCommentOrder": "oldest"
 }
